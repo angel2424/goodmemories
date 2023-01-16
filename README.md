@@ -1,6 +1,6 @@
 # Good Memories | [Visit live website](https://goodmemx.com)
 
-**`Since this is a project for a client, I can't share the source code, but here I explain what the project is about`**
+**`Please note that as this is work for a client, the source code of the project cannot be shared, but here's a quick rundown of what the project's all about`**
 
 </br>
 
